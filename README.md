@@ -35,7 +35,7 @@ Generates a series of odd numbers based on these rules:
 - If `a` is **even**, print the first `a - 1` odd numbers.
 
 **Example**:
-- Input: `3`
+- Input: `4`
 - Output: `1, 3, 5`
 - Input: `6`
 - Output: `1, 3, 5, 7, 9`
